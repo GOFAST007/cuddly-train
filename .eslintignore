@@ -1,0 +1,7 @@
+.changeset/
+
+# ignore working-group dir markdown so it's easier for people to edit from the UI
+working-group/
+packages/codemirror-graphql/src/__tests__/schema-kitchen-sink.graphql
+CHANGELOG.md
+**/CHANGELOG.md
