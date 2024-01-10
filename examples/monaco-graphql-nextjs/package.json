@@ -13,7 +13,7 @@
     "graphql": "^16.8.1",
     "graphql-ws": "^5.5.5",
     "jsonc-parser": "^3.2.0",
-    "marked": "^5.0.0",
+    "marked": "^5.0.1",
     "monaco-editor": "^0.39.0",
     "monaco-editor-webpack-plugin": "^7.0.1",
     "monaco-graphql": "^1.4.0",
